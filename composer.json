@@ -38,7 +38,7 @@
         "voryx/thruway-common": "^1.0.5",
         "thruway/client": "^0.5.0",
         "react/event-loop": "^1.0 || ^0.5 || ^0.4.3",
-        "react/promise": "^2.3.0",
+        "react/promise": "^3.0.0",
         "thruway/ratchet-transport": "^0.5.0"
     },
     "require-dev": {
